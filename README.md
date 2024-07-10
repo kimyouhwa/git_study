@@ -39,16 +39,16 @@
 1.
 [naver][addr]
 [addr]:http://naver.com "네이버"
-[link keyword
+[link keyword]
 2.
 Link:[naver][addr]
 [addr]: http://www.naver.com"네이버"
 -----------------------------------------------------------
 [text강조 ,체]
-* single background *
-_ single background _
-** single background **
-__ single background __
+* single background *   
+_ single background _   
+** single background **   
+__ single background __   
 -----------------------------------------------------------
 [images ]
 <p align="right">
